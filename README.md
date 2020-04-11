@@ -1,2 +1,2 @@
 # hellow-world
-Hhi!
+Hi!
